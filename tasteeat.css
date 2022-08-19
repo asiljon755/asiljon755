@@ -1,0 +1,397 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+
+}
+
+.boks {
+  margin-top: 108px;
+}
+
+header {
+  background: #292e36;
+  height: 500px;
+  margin-bottom: 100px;
+  background: #292e36;
+  border-radius: 0px;
+}
+
+section {
+  background: #292e36;
+  border-radius: 0px;
+}
+
+.call {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.blog {
+  margin-bottom: 10px;
+  margin-top: px;
+}
+
+.hrrr {
+  position: absolute;
+  height: 1px;
+  left: 0%;
+  right: 0%;
+  top: 287px;
+  background: #5c6168;
+}
+
+.call p {
+  height: 370px;
+  width: 1440px;
+  border: 2px solid #e1b168;
+  border-radius: 0px;
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  padding: 20px;
+  color: #ffffff;
+  width: 181px;
+  height: 33px;
+  left: calc(50% - 181px / 2);
+  top: 20px;
+}
+
+.call a {
+  height: 295px;
+  width: 73px;
+  border: 2px solid #e1b168;
+  border-radius: 0px;
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  background: #e1b168;
+  font-size: 22px;
+  line-height: 33px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  padding: 20px;
+  padding-left: 86px;
+  padding-right: 85px;
+  color: #292e36;
+  left: calc(50% - 181px / 2);
+  top: 20px;
+}
+
+nav ul {
+  display: flex;
+  margin-top: 100px;
+}
+
+li a:hover {
+  text-decoration: underline;
+  color: #e1b168;
+  transition: 1000ms;
+}
+
+.hrhr {
+  height: 1px;
+  left: 0%;
+  right: 0%;
+  top: 287px;
+  background: #5C6168;
+}
+
+li a {
+  margin: 50px;
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+}
+
+.salom {
+  margin-top: 246px;
+}
+
+section {
+  display: flex;
+  justify-content: space-around;
+}
+
+section .mishka {
+  border-radius: 626px 626px 0px 0px;
+}
+
+.welcome h1 {
+  font-family: "Cormorant Infant";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 100px;
+  line-height: 110px;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+}
+
+section p {
+  margin-top: 28px;
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+}
+
+section .button {
+  margin-top: 50px;
+}
+
+.button a {
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #e1b168;
+  padding: 20px 57px;
+  border: 2px solid #e1b168;
+  border-radius: 0px;
+}
+
+.nomer {
+  display: flex;
+  justify-content: space-around;
+  height: 160px;
+}
+
+.nomer h3 {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 39px;
+  letter-spacing: 0.2px;
+  color: #292e36;
+}
+
+.nomer p {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  color: #292e36;
+}
+
+.the {
+  display: flex;
+  justify-content: space-around;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+
+.none {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.abd {
+  margin-left: 50px;
+}
+
+.roms {
+  /* margin-top: 100px; */
+  margin-left: 100px;
+}
+
+.vector {
+  margin-right: 100px;
+}
+
+.none p {
+  width: 560px;
+  height: 90px;
+  margin: 15px;
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  color: #292e36;
+}
+
+.none h1 {
+  margin-right: 240px;
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 56px;
+  letter-spacing: 0.2px;
+  color: #292e36;
+}
+
+.boxmodul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 100px;
+}
+
+.boxmodul p {
+  width: 247px;
+  height: 60px;
+  margin: 15px;
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  color: #292e36;
+}
+
+.boxmodul h1 {
+  margin-right: 175px;
+  margin-top: -25px;
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 56px;
+  letter-spacing: 0.2px;
+  color: #292e36;
+}
+
+.boxmodul1 h1 {
+  margin-top: -25px;
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 56px;
+  letter-spacing: 0.2px;
+  color: #292e36;
+}
+
+.josefine {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  color: #555555;
+}
+
+.boxmodul1 p {
+  margin-top: 15px;
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  color: #292e36;
+}
+
+main {
+  margin-top: 750px;
+  background: #FFF8F5;
+  border-radius: 0px;
+}
+
+aside {
+  display: flex;
+  justify-content: space-evenly;
+  /* justify-content: center; */
+  margin-top: 145px;
+}
+
+.starters {
+  display: flex;
+  margin-top: 50px;
+
+}
+
+.image {
+  margin-top: px;
+  margin-left: 20px;
+}
+
+.image a {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 42px;
+  letter-spacing: 0.2px;
+  color: #292E36;
+}
+
+.image p {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  color: #555555;
+}
+
+.second h2 {
+  margin-top: 70px;
+}
+
+.choco p {
+  margin-top: 13px;
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  color: #555555;
+}
+
+.choco img {
+  margin-top: 45px;
+}
+
+.choco a {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #292E36;
+}
+
+.choco h1 {
+  margin-top: 12px;
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 56px;
+  letter-spacing: 0.2px;
+  text-transform: capitalize;
+  color: #292E36;
+}
